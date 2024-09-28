@@ -1,0 +1,11 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "Haii",
+  "main": "condition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apriyahya",
+  "license": "ISC"
+}
